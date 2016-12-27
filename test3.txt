@@ -1,3 +1,0 @@
-test 3 touch 
-made change directly by opening the file in git
-====================================================================================
